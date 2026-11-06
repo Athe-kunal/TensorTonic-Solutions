@@ -23,6 +23,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 |---|---|---|
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
 | Normalized Sigmoid Expert Router | Implement the DeepSeek V3 MoE router with expert scores, top-k selection, and normalized routing weights. | https://www.tensortonic.com/research/deepseekv3/ds3-moe-router |
+| Always-Active Shared Expert | Implement the DeepSeek V3 shared expert path and combine its dense output with routed expert outputs. | https://www.tensortonic.com/research/deepseekv3/ds3-shared-expert |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/athekunal)
 <!-- tensortonic:end -->
